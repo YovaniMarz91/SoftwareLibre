@@ -1,0 +1,7 @@
+su -
+groupadd casa
+useradd Yovani
+useradd Esmeralda
+adduser Yovani casa
+adduser Esmerada casa
+groupmod -n Familia casa
